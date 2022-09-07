@@ -1,0 +1,6 @@
+﻿  Printer_Simulation.cpp
+C:\Users\Ralvu\source\repos\Printer_Simulation\Printer_Simulation\Printer_Simulation.cpp(30,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ralvu\source\repos\Printer_Simulation\Printer_Simulation\Printer_Simulation.cpp(251,27): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Ralvu\source\repos\Printer_Simulation\Printer_Simulation\Printer_Simulation.cpp(279,27): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Ralvu\source\repos\Printer_Simulation\Printer_Simulation\Printer_Simulation.cpp(307,27): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  Printer_Simulation.vcxproj -> C:\Users\Ralvu\source\repos\Printer_Simulation\Debug\Printer_Simulation.exe
